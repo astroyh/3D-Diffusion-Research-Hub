@@ -2,7 +2,7 @@
 
 # 🌐 3D-Diffusion-Research-Hub
 
-A curated list of papers and their respective codebases centered around 3D generation based on diffusion models. If you're a researcher, student, or simply someone interested in this field, this repository should be your go-to place!
+An awesome list of papers and their respective codebases centered around 3D generation based on diffusion models. If you're a researcher, student, or simply someone interested in this field, this repository should be your go-to place!
 
 ---
 ### 📖 Table of Contents
