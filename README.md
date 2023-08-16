@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# 🌐 3D-Diffusion-Research-Hub
+# 🌐 3D-Diffusion-Research-Hub [Keep Updated]
 
 An awesome list of papers and their respective codebases centered around 3D generation based on diffusion models. If you're a researcher, student, or simply someone interested in this field, this repository should be your go-to place!
 
