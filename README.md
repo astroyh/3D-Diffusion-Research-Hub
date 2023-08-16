@@ -1,22 +1,20 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# 🌐 3D-Diffusion-Research-Hub [Keep Updated]
+# 🌐 3D-Diffusion-Research-Hub  [Keep Updated]
 
 An awesome list of papers and their respective codebases centered around 3D generation based on diffusion models. If you're a researcher, student, or simply someone interested in this field, this repository should be your go-to place!
 
----
-### 📖 Table of Contents
+## 📖 Table of Contents
 
 1. [Intro](#intro)
 2. [How to Contribute](#how-to-contribute)
 3. [Papers, Codes and Notes](#papers-codes-and-notes)
-   - [3D Generation based methods](#3d-generation-based-methods)
-   - [2D optimization based methods](#2d-optimization-based-methods)
+   - [3D-generation-based methods](#3d-generation-based-methods)
+   - [2D-optimization-based methods](#2d-optimization-based-methods)
 4. [Related Projects](#related-projects)
 5. [Contact](#contact)
 
----
-### <a name="intro"></a>🔍 Intro
+## <a name="intro"></a>🔍 Intro
 
 This repository is dedicated to collating research articles focused on 3D generation through diffusion methodologies. With an ever-growing number of publications in this domain, it's essential to have a centralized repository to track and follow major developments. 
 
@@ -28,18 +26,16 @@ Dive into the repository to find relevant papers, codes, and a rich array of res
 
 ![](media/overview.png)
 
----
-### <a name="how-to-contribute"></a>📝 How to Contribute
+## <a name="how-to-contribute"></a>📝 How to Contribute
 
 1. **Fork** the repository.
 2. **Add** the research paper details in the format provided below.
 3. Make sure the paper you're adding isn't already on the list.
 4. **Send** a pull request with a brief description of the paper's contribution.
 
----
-### <a name="papers-and-codes"></a>📚 Papers, Codes and Notes
+## <a name="papers-and-codes"></a>📚 Papers, Codes and Notes
 
-#### 3D Generation based methods
+### 3D-generation-based methods
 
 **Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**  
 *Stanislaw Szymanowicz, Christian Rupprecht, Andrea Vedaldi*  
@@ -106,7 +102,7 @@ arXiv 2022.  November, 2022
 ICCV 2021.  October, 2021  
 [![Paper](https://img.shields.io/badge/Paper-orange)](https://ieeexplore.ieee.org/document/9711332/) [![Code](https://img.shields.io/badge/Note-yellow)](notes)
 
-#### 2D optimization based methods
+### 2D-optimization-based methods
 
 **Generative Novel View Synthesis with 3D-Aware Diffusion Models**  
 *Eric R. Chan, Koki Nagano, Matthew A. Chan, Alexander W. Bergman, Jeong Joon Park, Axel Levy, Miika Aittala, Shalini De Mello, Tero Karras, Gordon Wetzstein*  
@@ -143,15 +139,10 @@ arXiv 2022.  October, 2022
 arXiv 2022.  September, 2022  
 [![Paper](https://img.shields.io/badge/Paper-orange)](http://arxiv.org/abs/2209.14988) [![Code](https://img.shields.io/badge/Note-yellow)](notes) [![Project](https://img.shields.io/badge/Project-blue)](https://dreamfusion3d.github.io/) [![Code](https://img.shields.io/badge/Code-green)](https://github.com/ashawkey/stable-dreamfusion) 🔥🔥🔥🔥🔥
 
+## <a name="related-projects"></a>🔗 Related Projects
 
+- [Threestudio](https://github.com/threestudio-project/threestudio)
 
----
-
-#### <a name="related-projects"></a>🔗 Related Projects
-
-- [Threestudo](https://github.com/threestudio-project/threestudio)
-
----
-#### 💌 Contact
+## 💌 Contact
 
 For queries and suggestions related to this repository, please raise an issue or contact the maintainer at [astroyh@qq.com](mailto:astroyh@qq.com).
